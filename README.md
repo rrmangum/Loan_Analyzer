@@ -3,9 +3,9 @@
 A program that performs the following:
 
 1. Analyzes basic loan portfolio summaries
-  a. Number of loans
-  b. Sum of loans
-  c. Average loan cost
+  \na. Number of loans
+  \nb. Sum of loans
+  \nc. Average loan cost
 2. Calculates present value calculations
 3. Automates present value calculations
 4. Filters lists of loans by their price
