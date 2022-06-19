@@ -2,10 +2,7 @@
 
 A program that performs the following:
 
-1. Analyzes basic loan portfolio summaries
-  \na. Number of loans
-  \nb. Sum of loans
-  \nc. Average loan cost
+1. Analyzes basic loan portfolio summaries (number of loans, sum of loans, average loan cost)
 2. Calculates present value calculations
 3. Automates present value calculations
 4. Filters lists of loans by their price
